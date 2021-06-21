@@ -6,6 +6,8 @@
 
 //Output :- [?,?] - Question
 
+//Array must be sorted
+
 
 function getSumPairZero(array)
 {
