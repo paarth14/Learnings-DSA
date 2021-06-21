@@ -25,5 +25,6 @@ const result = getSumPairZero([-5, -4, -3, -2, 0, 2, 4, 6, 8]);
 console.log(result);
 
 // Output:
-
 // [ -4, 4 ]
+
+//Time Complexity :- O(n^2)
