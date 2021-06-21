@@ -8,6 +8,8 @@
 
 //Approach :- Two Pointer approach : Left & Right pointer at (0 and n-1) respectively. If sum>0 --> right-- & sum<0 --> left++.
 
+//Array must be sorted.
+
 
 function findSum(array)
 {
